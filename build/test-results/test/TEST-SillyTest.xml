@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SillyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-08T21:50:14" hostname="Amirhosseins-MacBook-Pro-2.local" time="0.067">
+<testsuite name="SillyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-08T21:54:46" hostname="Amirhosseins-MacBook-Pro-2.local" time="0.065">
   <properties/>
-  <testcase name="testTask1" classname="SillyTest" time="0.044"/>
-  <testcase name="testTask2" classname="SillyTest" time="0.019"/>
+  <testcase name="testTask1" classname="SillyTest" time="0.041"/>
+  <testcase name="testTask2" classname="SillyTest" time="0.021"/>
   <testcase name="testTask3" classname="SillyTest" time="0.001"/>
   <testcase name="testTask4" classname="SillyTest" time="0.0"/>
   <testcase name="testTask5" classname="SillyTest" time="0.001"/>
